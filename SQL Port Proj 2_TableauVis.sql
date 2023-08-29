@@ -1,5 +1,6 @@
 -- Queries for the Tableau Project--
 -- 24 Aug 2023--
+-- Final Project Dashboard on Tableau : https://public.tableau.com/views/SQLPortfolioProject_16929040157530/Dashboard1?:language=en-GB&:display_count=n&:origin=viz_share_link
 
 
 --1. Overall total case vs overall total death & their percentage of death
@@ -49,5 +50,6 @@ max(cast(total_cases as float) / cast(population as float))*100 as PercentPopInf
 from PortfolioProject..CovidDeaths
 group by location, population, date
 order by PercentPopInf desc
+
 
 
