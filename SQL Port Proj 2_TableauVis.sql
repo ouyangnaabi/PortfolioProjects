@@ -1,5 +1,4 @@
 -- Queries for the Tableau Project--
--- 24 Aug 2023--
 -- Final Project Dashboard on Tableau : https://public.tableau.com/views/SQLPortfolioProject_16929040157530/Dashboard1?:language=en-GB&:display_count=n&:origin=viz_share_link
 
 
