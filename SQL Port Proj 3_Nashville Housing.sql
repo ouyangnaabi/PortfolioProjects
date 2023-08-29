@@ -1,9 +1,5 @@
 --Portfolio Project Part3 : Cleaning Data In SQL Queries--
 
-select *
-from PortfolioProject..NashvilleHousing
-
-
 
 
 --(A)Standardlise date format--------------------------------------------------------------
